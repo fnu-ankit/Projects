@@ -82,6 +82,7 @@ def empty_spaces():
     else:
         return True
 
+
 def new_game():
     global player
 
